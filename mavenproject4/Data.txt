@@ -1,0 +1,11 @@
+
+yamaha
+c90
+200
+30000
+czarny
+yamaha
+c200
+50
+20000
+czarny
